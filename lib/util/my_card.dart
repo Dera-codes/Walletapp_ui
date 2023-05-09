@@ -13,8 +13,7 @@ class MyCard extends StatelessWidget {
         width: 300,
         padding: EdgeInsets.all(20),
         decoration: BoxDecoration(
-            color: Colors.deepPurple[300],
-            borderRadius: BorderRadius.circular(16)),
+            color: Colors.pink[300], borderRadius: BorderRadius.circular(16)),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
